@@ -142,7 +142,7 @@ General_Settings:
   # Groups: ExampleGroup
   
   # This is the message that will be displayed if the sender doesn't have permission
-  Message: "&cYou don't have permission for this alias!"
+  Message: "&6[GamesMC.de] &cNur VIP-Spieler haben Zugriff auf diesen Befehl."
   
  # This section contains settings for the execution delay of the actions
  Delay:
